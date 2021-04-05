@@ -33,4 +33,3 @@ Read more: https://en.wikipedia.org/wiki/Canonical_Huffman_code
 
 To compile with mingw/gcc just type "make" or compile each file from command line.
 
-Vlad Ciuleanu
